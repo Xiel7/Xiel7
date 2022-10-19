@@ -1,7 +1,9 @@
 ## Hey there! I'm Eric 👋
 Previously a game dev turned into a Full Stack Software Programmer primarily working with web technologies.
 
-⚡ Interesting Stuff: Draws stuff (Mostly Anime) 🖌🎨 & Goes gym when depressed 🏋️‍♀️ 💪
+⚡ Interesting Stuff: 
+- Draws stuff (Mostly Anime) 🖌🎨
+- Goes gym when depressed 🏋️‍♀️ 💪
 
 # 🏢 Experiences
 | Roles | Company | Duration |
