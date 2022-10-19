@@ -47,12 +47,12 @@ Previously a game dev turned into a Full Stack Software Programmer primarily wor
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Xiel7&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xiel7&layout=compact&theme=tokyonight&show_icons=true&hide=html,scss,css&hide_border=true&card_width=240)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fajartd02.fajartd02)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Xiel7.Xiel7)
 
 <div>
   <p align = "center">
 <a href="https://www.linkedin.com/in/eric-ng-boon-lee-641280205/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=%23555&label=Twitter&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fzakotopro">
+<a href="https://twitter.com/zakotopro" target="_blank"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=%23555&label=Twitter&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fzakotopro"></a>
   </p>
 </div>
 
