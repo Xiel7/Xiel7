@@ -8,7 +8,7 @@ Previously a Game Dev turned into a Full Stack Software Programmer primarily wor
 # 🏢 Experiences
 | Roles | Company | Duration |
 | --- | --- | --- |
-| Tech Lead | [GT Business Systems](https://globaltrack.my/) | June 2021 - Present|
+| Tech Lead | [GT Business Systems Sdn Bhd](https://globaltrack.my/) | June 2021 - Present|
 
 ### Programming Languages
  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
