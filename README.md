@@ -23,11 +23,11 @@ Previously a game dev turned into a Full Stack Software Programmer primarily wor
 
  
 ### Frameworks
- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
- ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+ ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+ ![Tailwind](https://img.shields.io/badge/tailwindcss-%23404d59?logo=TailwindCSS&style=for-the-badge)
  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### Databases
@@ -52,7 +52,7 @@ Previously a game dev turned into a Full Stack Software Programmer primarily wor
 <div>
   <p align = "center">
 <a href="https://www.linkedin.com/in/eric-ng-boon-lee-641280205/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://twitter.com/zakotopro" target="_blank"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=%23555&label=Twitter&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fzakotopro"></a>
+<a href="https://twitter.com/zakotopro" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=Twitter" alt="Twitter"></a>
   </p>
 </div>
 
