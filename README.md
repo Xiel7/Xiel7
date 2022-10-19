@@ -1,5 +1,5 @@
 ## Hey there! I'm Eric 👋
-Previously a game dev turned into a Full Stack Software Programmer primarily working with web technologies.
+Previously a Game Dev turned into a Full Stack Software Programmer primarily working with web technologies.
 
 ⚡ Interesting Stuff: 
 - Draws stuff (Mostly Anime) 🖌🎨
